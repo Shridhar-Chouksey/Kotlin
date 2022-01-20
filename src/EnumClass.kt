@@ -18,3 +18,5 @@ enum class Day(val no:Int){
         //In a member of a class, this refers to the current object of that class.
     }
 }
+
+//enum class means only a set of values(eg days in a a week) can be passed to a variable and not any random value

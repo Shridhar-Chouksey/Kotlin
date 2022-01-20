@@ -20,17 +20,6 @@ sealed class Tile{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
 //         enum               |     sealed
 // we restrict values         | we restrict types
 // only 1 object is made(i.e  | because there are multiple types so multiple objects can
